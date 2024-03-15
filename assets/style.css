@@ -1,0 +1,30 @@
+h1{
+    color: aqua;
+    text-align: center;
+    font-size: 40px;
+}
+p{
+   text-align: justify; 
+   line-height: 25px;
+   word-spacing: 15;
+}
+span{
+    background-color: coral;
+}
+a{ background-color: rgb(165, 162, 161);
+    width: 200px; ;
+    height: 50px; ;
+    display: inline-block;
+    text-align: center;
+    line-height: 50px;
+    font-size: 27px;
+
+}
+img{
+    width: 700px;
+}
+img{
+    width: 500px;
+
+}
+   
